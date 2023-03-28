@@ -1,10 +1,10 @@
-# rm -rf SMS
+ rm -rf SMS
 
-# git clone https://github.com/Mh-Jihad404/SMS.git
+ git clone https://github.com/Mh-Jihad404/SMS.git
 
-# cd SMS
+ cd SMS
 
-# python SMS_BOMBING.py
+ python SMS_BOMBING.py
 
 USER:JIHAD
 
