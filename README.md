@@ -1,3 +1,8 @@
+# OWNER : JIHAD BOSS
+
+
+
+
 $ pkg update
 
 $ pkg upgrade
@@ -24,6 +29,6 @@ $ cd SMS
 
 $ python SMS_BOMBING.py
 
-USER:JIHAD
+USER: JIHAD
 
-PASS:JIHAD-404
+PASS: JIHAD-404
