@@ -1,6 +1,6 @@
-# Encoded By : MUMIT ISLAM HIMU
+# Encoded By : MAHADI HASAN JIHAD
 # Encryption : Py3 B64
-# Github: https://github.com/MUMIT-404-CYBER
+# Github: https://github.com/Mh-Jihad404
 #----------------------------------------------
 
 import base64
